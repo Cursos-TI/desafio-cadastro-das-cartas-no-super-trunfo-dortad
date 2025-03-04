@@ -1,5 +1,5 @@
 //Desafio Trunfo Nivel Novato  Aluno matricula 202502813139
-// Aluno : Durval (Polo Santo Andre) V Entrega
+// Aluno : Durval (Polo Santo Andre) V Entrega !
 #include <stdio.h>
 
 // criando as variaves 
