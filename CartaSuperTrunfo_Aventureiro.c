@@ -1,4 +1,4 @@
-//Desafio Trunfo Nivel Novato Aluno matricula 202502813139
+//Desafio Trunfo Nivel Aventureiro Aluno matricula 202502813139
 // Aluno : Durval (Polo Santo Andre)
 #include <stdio.h>
 
@@ -14,7 +14,7 @@
     float densidadePop = 0;
     float pibPerCapita = 0;
     
-    //printf("Quociente: %.2f\n", quociente);
+
 
 int main() {
     //entrada de dados da primeira carta

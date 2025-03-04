@@ -1,4 +1,4 @@
-//Desafio Trunfo Nivel Novato Aluno matricula 202502813139
+//Desafio Trunfo Nivel Novato  Aluno matricula 202502813139
 // Aluno : Durval (Polo Santo Andre)
 #include <stdio.h>
 
