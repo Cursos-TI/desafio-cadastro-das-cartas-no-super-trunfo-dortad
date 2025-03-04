@@ -1,4 +1,4 @@
-//Desafio Trunfo 
+//Desafio Trunfo Nivel Novato Aluno matricula 202502813139
 #include <stdio.h>
 
 // criando as variaves 
